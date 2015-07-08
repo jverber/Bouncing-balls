@@ -1,0 +1,16 @@
+#header1 { background-color: #b0c4de;	
+		font-family: "Comic Sans MS", cursive, sans-serif
+}
+#header2 { background-color: #b0c4de;	
+		font-family: "Comic Sans MS", cursive, sans-serif
+}
+#area {	height:400px;
+		width:400px;
+		border: 5px solid blue;}
+
+.ball {position: absolute;
+		height:30px;
+		width:30px;
+		border:2px solid blue;
+		background-color: yellow;	
+}		
